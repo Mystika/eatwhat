@@ -14,7 +14,7 @@ div.wrapper {
 	left: 0;
 }
 #searchbox {
-	width: 250px;
+	width: 200px;
 }
 
 #gmap {
@@ -26,4 +26,7 @@ div.wrapper {
 	float: none;
 	display: table;
 	margin: 10px auto;
+}
+.footer {
+	padding: 0px;
 }
