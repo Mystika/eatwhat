@@ -107,4 +107,5 @@ $(document).ready(function() {
 	});
 	
 	$('.open_arrow, .close_arrow, #toggleMap').click(toggleMap);
+	restaurants = [];
 });
