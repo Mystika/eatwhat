@@ -1,0 +1,29 @@
+body{
+	overflow:hidden;
+	font-family: Helvetica;
+	margin-top: 3%;
+	top:0;
+	width: 400px;
+}
+
+div.wrapper {
+	width: 100%;
+	position:absolute;
+	top:30%;
+	margin-left:0px;
+	left: 0;
+}
+#searchbox {
+	width: 300px;
+}
+
+#gmap {
+	width: 300px;
+	height: 300px;
+}
+
+#refresh, #change {
+	float: none;
+	display: table;
+	margin: 10px auto;
+}
