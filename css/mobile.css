@@ -13,6 +13,10 @@ div.wrapper {
 	margin-left:0px;
 	left: 0;
 }
+
+header {
+	font-size: 80px;
+}
 #searchbox {
 	width: 200px;
 }
