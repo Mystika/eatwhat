@@ -68,7 +68,7 @@ function showRestaurant()
 {
 	if(restaurants.length == 0)
 	{
-		$('.close_arrow, .open_arrow, .map_border, .footer').remove();
+		$('.close_arrow, .open_arrow, .map_border, .footer, #mapToggle').remove();
 		$('#pname').text('음식점이 이제 더 없어요! X(');
 		$('#address').html('<a onclick="location.reload(true);">&lt;&lt; 다시 검색하기</a>');
 		return;
